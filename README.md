@@ -1,2 +1,2 @@
-# HTML
-html codes
+#HTML
+HTML and CSS code
