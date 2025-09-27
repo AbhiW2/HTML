@@ -1,0 +1,45 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    display: inline-block;
+}
+body{
+    background-color: azure;
+    background-size: cover;
+}
+#box1{
+
+    background-image: url("flaminga_photo.jpg");
+    background-size: contain;
+}
+#box2{
+    background-image: url("lab1.jpg");
+    background-size: cover;
+}
+#box3{
+    background-image: url("lab2.jpg");
+    background-size: cover;
+}
+#box4{
+    background-image: url("lab3.jpg");
+    background-size: cover;
+}
+#box5{
+    background-image: url(tiger_photo.jpg);
+    background-size:cover;
+}
+#box6{
+    background-image:url(lab1.jpg);
+    background-size: cover;
+
+}
+#box7{
+    background-image: url(lab2.jpg);
+    background-size: cover;
+}
+#box8{
+    background-image: url(lab3.jpg);
+    background-size: cover;
+}
